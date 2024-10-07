@@ -4,7 +4,7 @@ root:*::
 daemon:*::
 bin:*::
 sys:*::
-adm:*::syslog
+adm:*::syslog,root
 tty:*::
 disk:*::
 lp:*::
